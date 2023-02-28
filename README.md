@@ -1,2 +1,2 @@
 # jonathanpotter.github.io
-A repository of my personal website at [jonathanpotter.com](http://www.jonathanpotter.com).
+My personal website on github pages at. [jonathanpotter.github.io](https://jonathanpotter.github.io). Previously hosted at [jonathanpotter.com](http://www.jonathanpotter.com).
